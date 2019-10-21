@@ -1,22 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="044605d0-8283-4c1d-941b-9c25865ec8c7" name="Default Changelist" comment="" />
+    <list default="true" id="044605d0-8283-4c1d-941b-9c25865ec8c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/app-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/app-config.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/application/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/application/vendor/clue/stream-filter" />
+      <path value="$PROJECT_DIR$/application/vendor/moneyphp/money" />
+      <path value="$PROJECT_DIR$/application/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/application/vendor/omnipay/braintree" />
+      <path value="$PROJECT_DIR$/application/vendor/omnipay/paypal" />
+      <path value="$PROJECT_DIR$/application/vendor/omnipay/common" />
+      <path value="$PROJECT_DIR$/application/vendor/omnipay/mollie" />
+      <path value="$PROJECT_DIR$/application/vendor/willdurand/email-reply-parser" />
+      <path value="$PROJECT_DIR$/application/vendor/omnipay/authorizenet" />
+      <path value="$PROJECT_DIR$/application/vendor/pusher/pusher-php-server" />
+      <path value="$PROJECT_DIR$/application/vendor/tecnickcom/tcpdf" />
+      <path value="$PROJECT_DIR$/application/vendor/studio-42/elfinder" />
+      <path value="$PROJECT_DIR$/application/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/application/vendor/stripe/stripe-php" />
+      <path value="$PROJECT_DIR$/application/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/application/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/application/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/application/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/application/vendor/2checkout/2checkout-php" />
+      <path value="$PROJECT_DIR$/application/vendor/twilio/sdk" />
+      <path value="$PROJECT_DIR$/application/vendor/instamojo/instamojo-php" />
+      <path value="$PROJECT_DIR$/application/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/application/vendor/neitanod/forceutf8" />
+      <path value="$PROJECT_DIR$/application/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/pagination" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/events" />
+      <path value="$PROJECT_DIR$/application/vendor/braintree/braintreehttp" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/application/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/application/vendor/braintree/braintree_php" />
+      <path value="$PROJECT_DIR$/application/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/discovery" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/application/vendor/paypal/paypal-checkout-sdk" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/message" />
+      <path value="$PROJECT_DIR$/application/vendor/php-http/message-factory" />
+      <path value="$PROJECT_DIR$/application/vendor/bainternet/php-hooks" />
+      <path value="$PROJECT_DIR$/application/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/application/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/application/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/application/vendor/composer" />
+      <path value="$PROJECT_DIR$/application/vendor/zbateson/mail-mime-parser" />
+      <path value="$PROJECT_DIR$/application/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/application/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/application/vendor/nuovo/spreadsheet-reader" />
+      <path value="$PROJECT_DIR$/application/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/application/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/application/vendor/nesbot/carbon" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1SV4wJjAdgDZP0EG40jbGhJuS7x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -49,12 +114,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571635665620</updated>
-      <workItem from="1571635666935" duration="277000" />
+      <workItem from="1571635666935" duration="840000" />
+      <workItem from="1571644346459" duration="4631000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />

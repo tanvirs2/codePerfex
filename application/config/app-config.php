@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 * environments.
 *
 */
-define('APP_BASE_URL', 'http://crm.ggtasker.co.uk/');
+define('APP_BASE_URL', 'http://localhost/perfex/');
 
 /*
 * --------------------------------------------------------------------------
@@ -32,7 +32,7 @@ define('APP_BASE_URL', 'http://crm.ggtasker.co.uk/');
 *
 * Auto added on install
 */
-define('APP_ENC_KEY', 'cc726a542494c8f3a74d092a4a4879ab');
+define('APP_ENC_KEY', '996ed4ec45d6871abf351e894a95b367');
 
 /**
  * Database Credentials
@@ -42,15 +42,15 @@ define('APP_DB_HOSTNAME', 'localhost');
 /**
  * The username used to connect to the database
  */
-define('APP_DB_USERNAME', 'ccrmhgh_dcser');
+define('APP_DB_USERNAME', 'root');
 /**
  * The password used to connect to the database
  */
-define('APP_DB_PASSWORD', 'a}!l25LxM+EW');
+define('APP_DB_PASSWORD', '');
 /**
  * The name of the database you want to connect to
  */
-define('APP_DB_NAME', 'ccrmhgh_crm');
+define('APP_DB_NAME', 'perfex');
 
 /**
  * @since  2.3.0
